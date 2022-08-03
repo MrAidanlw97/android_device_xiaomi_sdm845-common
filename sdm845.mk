@@ -154,7 +154,6 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.system.qti \
     libqdMetaData \
     libqdMetaData.system \
-    libtinyxml \
     memtrack.sdm845 \
     libvulkan \
     vendor.display.config@1.0.vendor \
