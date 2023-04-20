@@ -10,5 +10,11 @@
     "repository": "kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "trece"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "AidanWarner/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "trece"
   }
 ]
